@@ -1,5 +1,5 @@
 
-## Python-Prediction-Model
+## Election turnout predictor
 
 ### Prerequisites:
 - Python3  `brew install python3`
